@@ -25,6 +25,7 @@ public class Player : MonoBehaviour
         Vector3 position = transform.position;
         position.y = 0f;
         transform.position = position;
+        direction = Vector3.zero;
     }
     private void Update()
     {
