@@ -1,0 +1,25 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Unity tarafından yeniden oluşturulan klasörler
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Oyunun alınan build çıktıları
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE dosyaları
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
