@@ -1,17 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-# Unity tarafından yeniden oluşturulan klasörler
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+# Unity generated folders
+/FlappyBird/[Ll]ibrary/
+/FlappyBird/[Tt]emp/
+/FlappyBird/[Oo]bj/
+/FlappyBird/[Ll]ogs/
+/FlappyBird/[Uu]ser[Ss]ettings/
 
-# Oyunun alınan build çıktıları
-/[Bb]uild/
-/[Bb]uilds/
+# Build outputs
+/FlappyBird/[Bb]uild/
+/FlappyBird/[Bb]uilds/
 
-# IDE dosyaları
+# IDE files
 .vs/
 .vscode/
 .idea/
@@ -20,6 +20,6 @@
 *.user
 *.suo
 
-# İşletim sistemi dosyaları
+# System files
 .DS_Store
 Thumbs.db
